@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/study-soumya/study-soumya/output/github-contribution-grid-snake-dark.svg?palette=github-dark />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/study-soumya/study-soumya/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
   
   <br/><br/><br/>
 </div>
