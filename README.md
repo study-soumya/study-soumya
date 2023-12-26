@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Patra</h1>
 <h3 align="center">Passionate Python and Django developer eager to kick-start a successful career in the world of software development. Equipped with a strong foundation in Python programming, and web development, and a keen eye for detail, I am committed to crafting efficient and scalable solutions to meet the evolving needs of users.</h3>
 
-<img src="[![image](https://github.com/study-soumya/study-soumya/assets/145110077/4a86d334-cde0-40f8-94da-0facc781b790)](![image](https://github.com/study-soumya/study-soumya/assets/145110077/f83665e1-e775-4b83-8005-b74e36895256))" alt="Coding gif">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="Coding gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=study-soumya&label=Profile%20views&color=0e75b6&style=flat" alt="study-soumya" /> </p>
 
