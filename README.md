@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Patra</h1>
 <h3 align="center">Passionate Python and Django developer eager to kick-start a successful career in the world of software development. Equipped with a strong foundation in Python programming, and web development, and a keen eye for detail, I am committed to crafting efficient and scalable solutions to meet the evolving needs of users.</h3>
 
-<img src="[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)" alt="Coding gif" width="400">
+<img src="[https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966](https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966)" alt="Coding gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=study-soumya&label=Profile%20views&color=0e75b6&style=flat" alt="study-soumya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/its_soum_404" target="blank"><img src="https://img.shields.io/twitter/follow/its_soum_404?logo=twitter&style=for-the-badge" alt="its_soum_404" /></a> </p>
 
-- 🔭 I’m currently working on [Badminton Pros - A Online Store](https://github.com/study-soumya/Badminton-Pros)
+- 🔭 I’m currently working on [Badminton Pros - An Online Store](https://github.com/study-soumya/Badminton-Pros)
 
 - 🌱 I’m currently learning **Django REST Framework, React.js & MongoDB**
 
-- 👯 I’m looking to collaborate on [Badminton Pros - A Online Store](https://github.com/study-soumya/Badminton-Pros)
+- 👯 I’m looking to collaborate on [Badminton Pros - An Online Store](https://github.com/study-soumya/Badminton-Pros)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://soumyapatra.netlify.app/)
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Python & Django**
 
-- 📫 How to reach me **soumyaranjangr303@gmail.com**
+- 📫 How to reach me **sonusoum.study@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ESqoyr7kr9YI-fAPaMHbHLkXyN1tr86P/view?usp=sharing)
 
