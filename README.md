@@ -4,23 +4,40 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Soumya+Ranjan+Patra!;Python+Developer+🐍;+Django+Developer+🧑‍💻;+FullStack+Developer+🚀;" />
 </h1>
 
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A Passionate Software Developer from India</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Vision Intelligence Dashboard and Camera-Based AI Detection Tool**
- 
- 🌱 I’m currently enhancing my skills on **Django REST Framework, React.js, MySQL, GCP Cloud, Docker**
 
-💬 Ask me about **Python, Django, JavaScript, ... or anything [here](https://github.com/study-soumya/study-soumya/issues)**
+💼 **Software Developer | Full-Stack Engineer | UI/UX Designer**
 
-⚡ Fun fact **Badminton and Dance is a part of my life.**
+🚀 **4+ years of experience building enterprise-grade web applications, APIs, automation solutions, and cloud-based platforms.**
+
+## 🛠️ CORE EXPERTISE
+
+**Python • Django • DRF • React.js • JavaScript • MySQL • PostgreSQL • Docker • Redis • Celery • AWS • GCP**
+
+## 🏗️ SKILLED IN
+**Backend Development • Frontend Development • UI/UX Engineering • API Integrations • Cloud Deployment • System Design • Performance Optimization**
+
+## 🌱 GAINING KNOWLEDGE IN
+
+**AI Applications, Data Engineering, Distributed Systems, and Cloud-Native Architectures**
+
+## 💬 LET'S TALK ABOUT
+
+**Python, Django, React, REST APIs, Software Architecture, Cloud Platforms, and Scalable System Development** [here](https://github.com/study-soumya/study-soumya/issues)
+
+## 🏸 BEYOND CODING
+
+_Badminton enthusiast, dancer, and lifelong learner._
+
+⚡ Building technology that solves real-world problems and creates meaningful impact.
 
  </div>
  
-<div align="center"> 
+<div align="center">
   <a href="mailto:sonusoum.study@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
